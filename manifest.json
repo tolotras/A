@@ -1,0 +1,11 @@
+{
+  "id": "audio-player-plugin",
+  "name": "Enhanced Audio Player",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Remplace le lecteur audio intégré d'Obsidian par un lecteur amélioré",
+  "author": "Votre Nom",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
